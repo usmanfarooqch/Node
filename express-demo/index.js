@@ -21,6 +21,10 @@ const genres = [{
     {
         id: 4,
         name: 'Comedy'
+    },
+    {
+        id: 4,
+        name: 'Crime'
     }
 ]
 app.get('/', (req, res) => {
